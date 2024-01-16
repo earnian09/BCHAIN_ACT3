@@ -1,0 +1,9 @@
+.div {
+    margin-top: 15px;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: red;    
+    text-align: center;
+    box-shadow: 5px 10px 18px rgb(117, 117, 1);
+    color: white;
+  }
